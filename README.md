@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surajsuryawanshi12
-- 👀 I’m interested in fullstack webdeveloupment domain
-- 🌱 I’m currently persuing Btech 3rd year
+- 👀 I’m a data analyst 
+- 🌱 I’m currently persuing Btech 4th year
 - 💞️ I’m looking to collaborate on Startup company
 - 📫 reach me with the email or call
 - 😄 Pronouns: ...
